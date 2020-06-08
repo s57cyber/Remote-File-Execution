@@ -1,4 +1,4 @@
-print('    S57 - Python - Request- URL')
+print('    S57 - Python - Remote File Execution- URL')
 print('    by @s57cyber https://github.com/s57cyber')
 print("Disclaimer. This repository is for research purposes only, the use of this code is your responsibility. I take NO responsibility ... AT YOUR OWN RISK. Once again, ALL files available here are for EDUCATION and/or RESEARCH purposes ONLY.")
 print("----------------------------------------------------")
